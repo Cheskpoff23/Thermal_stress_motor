@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Definición del modelo}{2}{}%
+\contentsline {section}{\numberline {3}Implementación en COMSOL}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Definimos los estudios a realizar}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Definimos las variables mas importantes del estudio}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Definimos la geometría a estudiar}{8}{}%
+\contentsline {subsection}{\numberline {3.4}Definimos los límites y simetrías}{9}{}%
+\contentsline {subsection}{\numberline {3.5}Agregamos el material}{11}{}%
+\contentsline {subsection}{\numberline {3.6}Agregamos los rollers y la fuerza}{11}{}%
+\contentsline {subsection}{\numberline {3.7}Definimos la malla}{14}{}%
+\contentsline {subsection}{\numberline {3.8}Parámetros para la optimización topológica}{15}{}%
+\contentsline {subsection}{\numberline {3.9}Resultados y espejos}{18}{}%
+\contentsline {section}{\numberline {4}Resultados}{20}{}%
+\contentsline {section}{\numberline {5}Conclusiones}{23}{}%
