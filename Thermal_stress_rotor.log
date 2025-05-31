@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.6)  31 MAY 2025 17:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.6)  31 MAY 2025 17:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -854,7 +854,10 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (Thermal_stress_rotor.aux)
+ (Thermal_stress_rotor.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+)
 \openout1 = `Thermal_stress_rotor.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
@@ -937,23 +940,185 @@ LaTeX Info: Redefining \BHBI on input line 139.
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-c:/Users/GAVP/Desktop/Thermal_stress_motor/Thermal_stress_rotor.tex:82: I can't write on file `Thermal_stress_rotor.pdf'.
-(Press Enter to retry, or Control-C to exit; default file extension is `.pdf')
-Please type another file name for output
-c:/Users/GAVP/Desktop/Thermal_stress_motor/Thermal_stress_rotor.tex:82: Emergency stop.
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.82 \end{titlepage}
-                    
-*** (job aborted, file error in nonstop mode)
+[1
+Non-PDF special ignored!
+<special> header=psfrag.pro
 
- 
+{C:/Users/GAVP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Thermal_stress_rotor.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+ (C:\Users\GAVP\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write5
+\openout5 = `Thermal_stress_rotor.toc'.
+
+ [1]
+<estu.png, id=16, 1027.58907pt x 572.1375pt>
+File: estu.png Graphic file (type png)
+<use estu.png>
+Package pdftex.def Info: estu.png  used on input line 100.
+(pdftex.def)             Requested size: 422.77698pt x 235.38979pt.
+ [2]
+<geom.png, id=21, 1027.58907pt x 577.40718pt>
+File: geom.png Graphic file (type png)
+<use geom.png>
+Package pdftex.def Info: geom.png  used on input line 107.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<uniones.png, id=22, 1027.58907pt x 577.40718pt>
+File: uniones.png Graphic file (type png)
+<use uniones.png>
+Package pdftex.def Info: uniones.png  used on input line 115.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [3 <./estu.png> <./geom.png>]
+<def_elem.png, id=28, 1027.58907pt x 577.40718pt>
+File: def_elem.png Graphic file (type png)
+<use def_elem.png>
+Package pdftex.def Info: def_elem.png  used on input line 123.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<carcas.png, id=29, 1027.58907pt x 573.64313pt>
+File: carcas.png Graphic file (type png)
+<use carcas.png>
+Package pdftex.def Info: carcas.png  used on input line 130.
+(pdftex.def)             Requested size: 422.77698pt x 236.00923pt.
+ [4 <./uniones.png> <./def_elem.png>]
+<vari.png, id=35, 1025.33063pt x 576.65437pt>
+File: vari.png Graphic file (type png)
+<use vari.png>
+Package pdftex.def Info: vari.png  used on input line 137.
+(pdftex.def)             Requested size: 422.77698pt x 237.77606pt.
+<mat2.png, id=36, 1027.58907pt x 577.40718pt>
+File: mat2.png Graphic file (type png)
+<use mat2.png>
+Package pdftex.def Info: mat2.png  used on input line 144.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [5 <./carcas.png> <./vari.png>]
+<fen.png, id=42, 1027.58907pt x 577.40718pt>
+File: fen.png Graphic file (type png)
+<use fen.png>
+Package pdftex.def Info: fen.png  used on input line 152.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<fen2.png, id=43, 1026.08344pt x 569.87906pt>
+File: fen2.png Graphic file (type png)
+<use fen2.png>
+Package pdftex.def Info: fen2.png  used on input line 158.
+(pdftex.def)             Requested size: 422.77698pt x 234.80844pt.
+<fen3.png, id=44, 1027.58907pt x 577.40718pt>
+File: fen3.png Graphic file (type png)
+<use fen3.png>
+Package pdftex.def Info: fen3.png  used on input line 164.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [6 <./mat2.png> <./fen.png>]
+<fen4.png, id=51, 1027.58907pt x 570.63188pt>
+File: fen4.png Graphic file (type png)
+<use fen4.png>
+Package pdftex.def Info: fen4.png  used on input line 172.
+(pdftex.def)             Requested size: 422.77698pt x 234.77034pt.
+ [7 <./fen2.png> <./fen3.png>]
+<fen5.png, id=57, 1027.58907pt x 577.40718pt>
+File: fen5.png Graphic file (type png)
+<use fen5.png>
+Package pdftex.def Info: fen5.png  used on input line 179.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<ori.png, id=58, 1027.58907pt x 577.40718pt>
+File: ori.png Graphic file (type png)
+<use ori.png>
+Package pdftex.def Info: ori.png  used on input line 186.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [8 <./fen4.png> <./fen5.png>]
+<restriccion1.png, id=64, 1009.52156pt x 577.40718pt>
+File: restriccion1.png Graphic file (type png)
+<use restriccion1.png>
+Package pdftex.def Info: restriccion1.png  used on input line 194.
+(pdftex.def)             Requested size: 422.77698pt x 241.81332pt.
+<dis1.png, id=65, 1027.58907pt x 577.40718pt>
+File: dis1.png Graphic file (type png)
+<use dis1.png>
+Package pdftex.def Info: dis1.png  used on input line 201.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [9 <./ori.png> <./restriccion1.png>]
+<htfluxeje.png, id=71, 1027.58907pt x 577.40718pt>
+File: htfluxeje.png Graphic file (type png)
+<use htfluxeje.png>
+Package pdftex.def Info: htfluxeje.png  used on input line 209.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<htflhous.png, id=72, 1027.58907pt x 577.40718pt>
+File: htflhous.png Graphic file (type png)
+<use htflhous.png>
+Package pdftex.def Info: htflhous.png  used on input line 216.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [10 <./dis1.png> <./htfluxeje.png>]
+<id1.png, id=78, 1027.58907pt x 577.40718pt>
+File: id1.png Graphic file (type png)
+<use id1.png>
+Package pdftex.def Info: id1.png  used on input line 224.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<mesg.png, id=79, 1027.58907pt x 577.40718pt>
+File: mesg.png Graphic file (type png)
+<use mesg.png>
+Package pdftex.def Info: mesg.png  used on input line 230.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [11 <./htflhous.png> <./id1.png>]
+<comp1.png, id=85, 1027.58907pt x 573.64313pt>
+File: comp1.png Graphic file (type png)
+<use comp1.png>
+Package pdftex.def Info: comp1.png  used on input line 238.
+(pdftex.def)             Requested size: 422.77698pt x 236.00923pt.
+<temp_lubricant.png, id=86, 1027.58907pt x 577.40718pt>
+File: temp_lubricant.png Graphic file (type png)
+<use temp_lubricant.png>
+Package pdftex.def Info: temp_lubricant.png  used on input line 246.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [12 <./mesg.png> <./comp1.png>]
+<fluid_pressure.png, id=93, 1027.58907pt x 577.40718pt>
+File: fluid_pressure.png Graphic file (type png)
+<use fluid_pressure.png>
+Package pdftex.def Info: fluid_pressure.png  used on input line 256.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+ [13 <./temp_lubricant.png> <./fluid_pressure.png>]
+<Stress+Deformation.png, id=99, 1027.58907pt x 577.40718pt>
+File: Stress+Deformation.png Graphic file (type png)
+<use Stress+Deformation.png>
+Package pdftex.def Info: Stress+Deformation.png  used on input line 266.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<temp_solidos.png, id=100, 1027.58907pt x 577.40718pt>
+File: temp_solidos.png Graphic file (type png)
+<use temp_solidos.png>
+Package pdftex.def Info: temp_solidos.png  used on input line 273.
+(pdftex.def)             Requested size: 422.77698pt x 237.55785pt.
+<visheat.png, id=101, 1023.825pt x 572.89032pt>
+File: visheat.png Graphic file (type png)
+<use visheat.png>
+Package pdftex.def Info: visheat.png  used on input line 280.
+(pdftex.def)             Requested size: 422.77698pt x 236.56493pt.
+ [14 <./Stress+Deformation.png> <./temp_solidos.png>]
+No file Thermal_stress_rotor.bbl.
+[15 <./visheat.png>] (Thermal_stress_rotor.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 32880 strings out of 474486
- 806912 string characters out of 5744228
- 1927542 words of memory out of 5000000
- 54608 multiletter control sequences out of 15000+600000
- 558969 words of font info for 39 fonts, out of 8000000 for 9000
+ 33160 strings out of 474486
+ 812220 string characters out of 5744228
+ 1931542 words of memory out of 5000000
+ 54858 multiletter control sequences out of 15000+600000
+ 564337 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,5n,107p,774b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-c:/Users/GAVP/Desktop/Thermal_stress_motor/Thermal_stress_rotor.tex:82:  ==> Fatal error occurred, no output PDF file produced!
+ 99i,6n,107p,774b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/GAVP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Thermal_stress_rotor.pdf (16 pages, 2624564 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+
